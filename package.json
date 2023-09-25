@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "telegraf": "^4.14.0"
+  },
+  "name": "echo_bot",
+  "description": "telegram echo bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thk4x4/echo_bot.git"
+  },
+  "author": "Alexandr Evdokimov <tohoku@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thk4x4/echo_bot/issues"
+  },
+  "homepage": "https://github.com/thk4x4/echo_bot#readme"
+}
